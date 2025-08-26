@@ -21,6 +21,10 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Learning Notes
+
+[Learning Notes](https://github.com/fireballdev99/learn-nestjs-basic-message/tree/main/learning-note) My learning note lecture is here
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
